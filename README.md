@@ -15,6 +15,11 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="400" height="200" alt="Coding Boy" />
+  <img src="https://media.giphy.com/media/3oEduV4SOS9mmmIOkw/giphy.gif" width="400" height="200" alt="Robot Design" />
+</p>
+
 ---
 
 ## 🛠 About Me
@@ -22,8 +27,8 @@
 I'm a Robotics Engineer with a passion for creating innovative solutions in robotics, electronics, and CAD designing. Below, you can explore my projects and learn more about my work and interests.
 
 - 🔧 **Expertise**: Robotics, Electronics, PCB Designing, CAD Designing
-- 💻 **Development Platform**: PlatformIO
-- 📡 **Motor Control**: Using BTS Motor Driver
+- 🛠 **Tools**: SolidWorks, MATLAB, Altium Designer
+- 📡 **Control System**: Using PID Controller
 - 🤖 **Previous Project**: Abhash (a robotics project)
 
 ## 🚀 Skills
@@ -73,4 +78,6 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 ---
 
-🌟 **Let's create something amazing together!** 🌟
+<p align="center">
+  🌟 **Let's create something amazing together!** 🌟
+</p>
