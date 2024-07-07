@@ -1,9 +1,10 @@
-<!-- Banner Image Section with GIPHY Animation -->
+<!-- Banner Image Section with GIPHY Animation resized to medium -->
 <p align="center">
   <a href="https://giphy.com/stickers/siwaOnlineGmbH-siwa-siwi-hagenberg-3kPDmoWdBpQPNhCnUG">
-    <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100%" height="auto" alt="Robotics Engineer Banner" />
+    <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="480" height="384" alt="Robotics Engineer Banner" />
   </a>
 </p>
+
 
 <!-- Main Content Section -->
 <h1 align="center">Hi there, I'm Nurul islam 👋</h1>
