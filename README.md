@@ -1,7 +1,7 @@
 <!-- Banner Image Section with GIPHY Animation -->
 <p align="center">
   <a href="https://giphy.com/gifs/scaler-official-funny-code-not-working-mTPjPA6SSXgTsnZ1Dh">
-    <img src="https://media.giphy.com/media/PoHs1Ne8rcMuZRJted/giphy.gif" width="480" height="480" alt="Robotics Engineer Banner" />
+    <img src="https://giphy.com/gifs/scaler-official-funny-code-not-working-mTPjPA6SSXgTsnZ1Dh" width="480" height="480" alt="Robotics Engineer Banner" />
   </a>
 </p>
 
