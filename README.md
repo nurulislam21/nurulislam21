@@ -16,19 +16,18 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height="200" alt="Boy Coding" />
-  <img src="https://media.giphy.com/media/3oEduV4SOS9mmmIOkw/giphy.gif" width="400" height="200" alt="Robot Design" />
+  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="750" height="300" alt="Banner" />
 </p>
 
 ---
 
 ## 🛠 About Me
 
-I'm a Robotics Engineer with a passion for creating innovative solutions in robotics, electronics, and CAD designing. Below, you can explore my projects and learn more about my work and interests.
+I'm a passionate Robotics Engineer with expertise in robotics, electronics, and CAD designing. My work focuses on creating innovative solutions through precise engineering and programming.
 
 - 🔧 **Expertise**: Robotics, Electronics, PCB Designing, CAD Designing
 - 🛠 **Tools**: SolidWorks, MATLAB, Altium Designer
-- 📡 **Control System**: Using PID Controller
+- 📡 **Control System**: Using PID Controllers
 - 🤖 **Previous Project**: Abhash (a robotics project)
 
 ## 🚀 Skills
@@ -38,22 +37,26 @@ I'm a Robotics Engineer with a passion for creating innovative solutions in robo
 - **CAD Designing**: 3D modeling and simulation using various CAD software.
 - **Programming**: Proficient in C++, Python, and embedded systems programming.
 
+---
+
 ## 📂 Projects
 
-### 📌 Self-Driving Car
+### 🤖 Self-Driving Car
 A Raspberry Pi-based self-driving car using computer vision for object detection and navigation.
 
-### 📌 Autonomous Trash Collector Robot
-A robot designed to autonomously navigate and collect trash in designated areas.
+### 🗑️ Autonomous Trash Collector Robot
+An autonomous robot designed to navigate and collect trash in designated areas.
 
-### 📌 Line Follower Robot
-A line-following robot using ESP32 and infrared sensors for precise navigation.
+### 🚗 Line Follower Robot
+A precision line-following robot using ESP32 and infrared sensors for accurate path tracking.
 
-### 📌 Maze Solving Robot
-A robot designed to navigate and solve mazes autonomously.
+### 🌀 Maze Solving Robot
+A robot capable of autonomously navigating and solving complex mazes.
 
-### 📌 Many More...
-Explore my repositories for a wide range of projects in robotics and electronics.
+### 🌟 Many More...
+Explore my repositories for a wide range of robotics and electronics projects.
+
+---
 
 ## 📫 Get in Touch
 
