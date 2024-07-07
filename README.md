@@ -1,6 +1,6 @@
 <!-- Banner Image Section with GIPHY Animation -->
 <p align="center">
-  <a href="https://giphy.com/gifs/scaler-official-funny-code-not-working-mTPjPA6SSXgTsnZ1Dh">
+  <a href="">
     <img src="" />
   </a>
 </p>
