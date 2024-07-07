@@ -7,7 +7,7 @@
 <!-- Banner Image Section with GIPHY Animation resized to medium -->
 <p align="center">
   <a href="https://giphy.com/stickers/siwaOnlineGmbH-siwa-siwi-hagenberg-3kPDmoWdBpQPNhCnUG">
-    <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="480" height="384" alt="Robotics Engineer Banner" />
+    <iframe src="https://assets.pinterest.com/ext/embed.html?id=673147475546548397" height="359" width="345" frameborder="0" scrolling="no" ></iframe>
   </a>
 </p>
 
