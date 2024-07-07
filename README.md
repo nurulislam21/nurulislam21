@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="400" height="200" alt="Coding Boy" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height="200" alt="Boy Coding" />
   <img src="https://media.giphy.com/media/3oEduV4SOS9mmmIOkw/giphy.gif" width="400" height="200" alt="Robot Design" />
 </p>
 
