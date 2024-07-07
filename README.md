@@ -1,6 +1,10 @@
 <h1 align="center">Hi there, I'm Nurul islam 👋</h1>
 
 <p align="center">
+  <img src="https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw2NTh8MHwxfGFsbHwxfHx8fHx8fHx8fHwxNjMxMDQxMTIy&ixlib=rb-1.2.1&q=80&w=1080" width="750" height="300" alt="Wilderness Banner" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Robotics-Engineer-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Electronics-Expert-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/CAD-Designer-green?style=flat-square" />
@@ -13,10 +17,6 @@
   <a href="mailto:isnurul.noman@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="750" height="300" alt="Banner" />
 </p>
 
 ---
@@ -68,21 +68,15 @@ Feel free to explore my repositories and reach out if you have any questions or 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Nurul's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nurulislam21&show_icons=true&theme=radical" alt="Nurul's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Nurul's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurulislam21&layout=compact&theme=radical" alt="Nurul's Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=your-username.your-repo-name" alt="Visitors">
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" height="200" alt="Programmer Animation" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=nurulislam21.nurulislam21" alt="Visitors">
 </p>
 
 ---
