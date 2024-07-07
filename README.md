@@ -76,7 +76,7 @@ Feel free to explore my repositories and reach out if you have any questions or 
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=nurulislam21.your-repo-name" alt="Visitors">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=nurulislam21/my-portfolio" alt="Visitors">
 </p>
 
 ---
