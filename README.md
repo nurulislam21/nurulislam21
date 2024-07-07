@@ -7,13 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href="https://www.linkedin.com/in/nurulislam21/">
     <img src="https://img.shields.io/badge/LinkedIn-Nurul%20islam-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://twitter.com/your-twitter-profile">
-    <img src="https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=flat-square&logo=twitter" />
-  </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:isnurul.noman@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail" />
   </a>
 </p>
@@ -38,16 +35,25 @@ I'm a Robotics Engineer with a passion for creating innovative solutions in robo
 
 ## 📂 Projects
 
+### 📌 Self-Driving Car
+A Raspberry Pi-based self-driving car using computer vision for object detection and navigation.
+
+### 📌 Autonomous Trash Collector Robot
+A robot designed to autonomously navigate and collect trash in designated areas.
+
 ### 📌 Line Follower Robot
 A line-following robot using ESP32 and infrared sensors for precise navigation.
 
-### 📌 Self-Driving Car
-A Raspberry Pi-based self-driving car using computer vision for object detection and navigation.
+### 📌 Maze Solving Robot
+A robot designed to navigate and solve mazes autonomously.
+
+### 📌 Many More...
+Explore my repositories for a wide range of projects in robotics and electronics.
 
 ## 📫 Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/nurulislam21/)
-- [Email](isnurul.noman@gmail.com)
+- [Email](mailto:isnurul.noman@gmail.com)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
