@@ -1,10 +1,3 @@
-<!-- Banner Image Section with GIPHY Animation -->
-<p align="center">
-  <a href="">
-    <img src="" />
-  </a>
-</p>
-
 <!-- Main Content Section -->
 <h1 align="center">Hi there, I'm Nurul islam 👋</h1>
 
