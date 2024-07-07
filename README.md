@@ -68,15 +68,15 @@ Feel free to explore my repositories and reach out if you have any questions or 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Nurul's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nurulislam21&show_icons=true&theme=radical" alt="Nurul's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Nurul's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurulislam21&layout=compact&theme=radical" alt="Nurul's Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=your-username.your-repo-name" alt="Visitors">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=nurulislam21.your-repo-name" alt="Visitors">
 </p>
 
 ---
