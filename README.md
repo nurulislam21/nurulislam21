@@ -1,15 +1,19 @@
-<h1 align="center">Hi there, I'm Nurul islam 👋</h1>
-
+<!-- Banner Image Section -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw2NTh8MHwxfGFsbHwxfHx8fHx8fHx8fHwxNjMxMDQxMTIy&ixlib=rb-1.2.1&q=80&w=1080" width="750" height="300" alt="Wilderness Banner" />
+  <img src="https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw2NTh8MHwxfGFsbHwxfHx8fHx8fHx8fHwxNjMxMDQxMTIy&ixlib=rb-1.2.1&q=80&w=1080" width="100%" height="300" alt="Wilderness Banner" />
 </p>
 
+<!-- Main Content Section -->
+<h1 align="center">Hi there, I'm Nurul islam 👋</h1>
+
+<!-- Shields Section -->
 <p align="center">
   <img src="https://img.shields.io/badge/Robotics-Engineer-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Electronics-Expert-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/CAD-Designer-green?style=flat-square" />
 </p>
 
+<!-- Contact Links Section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/nurulislam21/">
     <img src="https://img.shields.io/badge/LinkedIn-Nurul%20islam-blue?style=flat-square&logo=linkedin" />
@@ -19,54 +23,54 @@
   </a>
 </p>
 
----
+<!-- About Me Section -->
+<h2 align="center">🛠 About Me</h2>
 
-## 🛠 About Me
+<p align="center">
+  I'm a passionate Robotics Engineer with expertise in robotics, electronics, and CAD designing. My work focuses on creating innovative solutions through precise engineering and programming.
+</p>
 
-I'm a passionate Robotics Engineer with expertise in robotics, electronics, and CAD designing. My work focuses on creating innovative solutions through precise engineering and programming.
+<ul align="center">
+  <li>🔧 <strong>Expertise</strong>: Robotics, Electronics, PCB Designing, CAD Designing</li>
+  <li>🛠 <strong>Tools</strong>: SolidWorks, MATLAB, Altium Designer</li>
+  <li>📡 <strong>Control System</strong>: Using PID Controllers</li>
+  <li>🚗 <strong>Current Project</strong>: Self-Driving Car</li>
+</ul>
 
-- 🔧 **Expertise**: Robotics, Electronics, PCB Designing, CAD Designing
-- 🛠 **Tools**: SolidWorks, MATLAB, Altium Designer
-- 📡 **Control System**: Using PID Controllers
-- 🤖 **Previous Project**: Abhash (a robotics project)
+<!-- Skills Section -->
+<h2 align="center">🚀 Skills</h2>
 
-## 🚀 Skills
+<p align="center">
+  <strong>Robotics</strong>: Design and development of autonomous and semi-autonomous robots. <br>
+  <strong>Electronics</strong>: Circuit design, PCB layout, and prototyping. <br>
+  <strong>CAD Designing</strong>: 3D modeling and simulation using various CAD software. <br>
+  <strong>Programming</strong>: Proficient in C++, Python, and embedded systems programming.
+</p>
 
-- **Robotics**: Design and development of autonomous and semi-autonomous robots.
-- **Electronics**: Circuit design, PCB layout, and prototyping.
-- **CAD Designing**: 3D modeling and simulation using various CAD software.
-- **Programming**: Proficient in C++, Python, and embedded systems programming.
+<!-- Projects Section -->
+<h2 align="center">📂 Projects</h2>
 
----
+<ul align="center">
+  <li>🤖 <strong>Self-Driving Car</strong>: A Raspberry Pi-based self-driving car using computer vision for object detection and navigation.</li>
+  <li>🗑️ <strong>Autonomous Trash Collector Robot</strong>: An autonomous robot designed to navigate and collect trash in designated areas.</li>
+  <li>🚗 <strong>Line Follower Robot</strong>: A precision line-following robot using ESP32 and infrared sensors for accurate path tracking.</li>
+  <li>🌀 <strong>Maze Solving Robot</strong>: A robot capable of autonomously navigating and solving complex mazes.</li>
+  <li>🌟 <strong>Many More...</strong> Explore my repositories for a wide range of robotics and electronics projects.</li>
+</ul>
 
-## 📂 Projects
+<!-- Contact Section -->
+<h2 align="center">📫 Get in Touch</h2>
 
-### 🤖 Self-Driving Car
-A Raspberry Pi-based self-driving car using computer vision for object detection and navigation.
+<p align="center">
+  <a href="https://www.linkedin.com/in/nurulislam21/">LinkedIn</a> •
+  <a href="mailto:isnurul.noman@gmail.com">Email</a>
+</p>
 
-### 🗑️ Autonomous Trash Collector Robot
-An autonomous robot designed to navigate and collect trash in designated areas.
+<p align="center">
+  Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+</p>
 
-### 🚗 Line Follower Robot
-A precision line-following robot using ESP32 and infrared sensors for accurate path tracking.
-
-### 🌀 Maze Solving Robot
-A robot capable of autonomously navigating and solving complex mazes.
-
-### 🌟 Many More...
-Explore my repositories for a wide range of robotics and electronics projects.
-
----
-
-## 📫 Get in Touch
-
-- [LinkedIn](https://www.linkedin.com/in/nurulislam21/)
-- [Email](mailto:isnurul.noman@gmail.com)
-
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
-
----
-
+<!-- GitHub Stats Section -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nurulislam21&show_icons=true&theme=radical" alt="Nurul's GitHub stats" />
 </p>
@@ -75,12 +79,14 @@ Feel free to explore my repositories and reach out if you have any questions or 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurulislam21&layout=compact&theme=radical" alt="Nurul's Top Languages" />
 </p>
 
+<!-- Visitor Badge Section -->
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=nurulislam21.nurulislam21" alt="Visitors">
 </p>
 
 ---
 
+<!-- Footer Section -->
 <p align="center">
   🌟 **Let's create something amazing together!** 🌟
 </p>
