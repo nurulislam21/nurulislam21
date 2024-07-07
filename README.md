@@ -1,6 +1,8 @@
-<!-- Banner Image Section -->
+<!-- Banner Image Section with GIPHY Animation -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1593575465625-bad35d1a3998?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw2NTh8MHwxfGFsbHwxfHx8fHx8fHx8fHwxNjMxMDQxMTIy&ixlib=rb-1.2.1&q=80&w=1080" width="100%" height="300" alt="Robotics Engineer Banner" />
+  <a href="https://giphy.com/stickers/siwaOnlineGmbH-siwa-siwi-hagenberg-3kPDmoWdBpQPNhCnUG">
+    <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100%" height="auto" alt="Robotics Engineer Banner" />
+  </a>
 </p>
 
 <!-- Main Content Section -->
