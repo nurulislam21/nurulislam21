@@ -1,8 +1,7 @@
-
-<!-- Banner Image Section with GIPHY Animation resized to medium -->
+<!-- Banner Image Section with GIPHY Animation -->
 <p align="center">
-  <a href="https://giphy.com/stickers/siwaOnlineGmbH-siwa-siwi-hagenberg-3kPDmoWdBpQPNhCnUG">
-    <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="480" height="384" alt="Robotics Engineer Banner" />
+  <a href="https://giphy.com/gifs/tech-software-macaotech-PoHs1Ne8rcMuZRJted">
+    <img src="https://media.giphy.com/media/PoHs1Ne8rcMuZRJted/giphy.gif" width="480" height="480" alt="Robotics Engineer Banner" />
   </a>
 </p>
 
