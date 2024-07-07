@@ -4,13 +4,10 @@
     <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="480" height="384" alt="Robotics Engineer Banner" />
   </a>
 </p>
-<!-- Banner Image Section with GIPHY Animation resized to medium -->
+<!-- Banner Image Section with GIF -->
 <p align="center">
-  <a href="https://giphy.com/stickers/siwaOnlineGmbH-siwa-siwi-hagenberg-3kPDmoWdBpQPNhCnUG">
-    <iframe src="https://assets.pinterest.com/ext/embed.html?id=673147475546548397" height="359" width="345" frameborder="0" scrolling="no" ></iframe>
-  </a>
+  <img src="https://i.pinimg.com/originals/2c/1b/2a/2c1b2aaef1db1e4b8d4b2a9baf305c7a.gif" width="345" height="359" alt="Robotics Engineer Banner" />
 </p>
-
 
 <!-- Main Content Section -->
 <h1 align="center">Hi there, I'm Nurul islam 👋</h1>
