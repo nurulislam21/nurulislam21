@@ -25,13 +25,6 @@
   I'm a passionate Robotics Engineer with expertise in robotics, electronics, and CAD designing. My work focuses on creating innovative solutions through precise engineering and programming.
 </p>
 
-<ul align="center">
-  <li>🔧 <strong>Expertise</strong>: Robotics, Electronics, PCB Designing, CAD Designing</li>
-  <li>🛠 <strong>Tools</strong>: SolidWorks, MATLAB, Altium Designer</li>
-  <li>📡 <strong>Control System</strong>: Using PID Controllers</li>
-  <li>🚗 <strong>Current Project</strong>: Self-Driving Car</li>
-</ul>
-
 <!-- Skills Section -->
 <h2 align="center">🚀 Skills</h2>
 
@@ -50,6 +43,8 @@
   <li>🗑️ <strong>Autonomous Trash Collector Robot</strong>: An autonomous robot designed to navigate and collect trash in designated areas.</li>
   <li>🚗 <strong>Line Follower Robot</strong>: A precision line-following robot using ESP32 and infrared sensors for accurate path tracking.</li>
   <li>🌀 <strong>Maze Solving Robot</strong>: A robot capable of autonomously navigating and solving complex mazes.</li>
+  <li>🔍 <strong>Smart Glass for Blind People (Drishti)</strong>: A wearable device designed to assist visually impaired individuals through obstacle detection, navigation, and voice feedback.</li>
+  <li>🏭 <strong>Industrial Automation (Ongshak)</strong>: Automation solutions to optimize industrial processes, focusing on enhancing efficiency and reliability in manufacturing systems.</li>
   <li>🌟 <strong>Many More...</strong> Explore my repositories for a wide range of robotics and electronics projects.</li>
 </ul>
 
