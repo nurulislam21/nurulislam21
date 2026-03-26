@@ -1,82 +1,59 @@
-<!-- Main Content Section -->
-<h1 align="center">Hi there, I'm Nurul islam 👋</h1>
+# Hi, I'm Nurul Islam Noman 👋
 
-<!-- Shields Section -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Robotics-Engineer-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Electronics-Expert-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/CAD-Designer-green?style=flat-square" />
-</p>
+### 🚀 Robotics & Embedded Systems Engineer 
+I am an Electrical and Electronic Engineering student specializing in robotics, autonomous systems, and embedded hardware design. I lead engineering teams to build complex robotic solutions, from VTOL drones to high-performance autonomous vehicles.
 
-<!-- Contact Links Section -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/nurulislam21/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nurul%20islam-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="mailto:isnurul.noman@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail" />
-  </a>
-</p>
+---
 
-<!-- About Me Section -->
-<h2 align="center">🛠 About Me</h2>
+### 🛠️ Technical Arsenal
 
-<p align="center">
-  I'm a passionate Robotics Engineer with expertise in robotics, electronics, and CAD designing. My work focuses on creating innovative solutions through precise engineering and programming.
-</p>
+- **Hardware Design:** Altium Designer, SOLIDWORKS (3D Modeling), PCB Design & Prototyping.
+- **Microcontrollers:** STM32 (ARM Cortex), ESP32, Arduino.
+- **Software & Control:** C/C++, Python, PID Control, ROS (Robot Operating System).
+- **Robotics Projects:** VTOL UAVs, Line Follower Robots, PID-tuned autonomous systems.
 
-<!-- Skills Section -->
-<h2 align="center">🚀 Skills</h2>
+---
 
-<p align="center">
-  <strong>Robotics</strong>: Design and development of autonomous and semi-autonomous robots. <br>
-  <strong>Electronics</strong>: Circuit design, PCB layout, and prototyping. <br>
-  <strong>CAD Designing</strong>: 3D modeling and simulation using various CAD software. <br>
-  <strong>Programming</strong>: Proficient in C++, Python, and embedded systems programming.
-</p>
+### 🏆 Key Achievements & Experience
 
-<!-- Projects Section -->
-<h2 align="center">📂 Projects</h2>
+- **Engineering Head @ Team RoboMore** | Leading hardware and system architecture for competitive robotics.
+- **Project Lead @ sn21 VTOL** | Designing and implementing flight control systems for Vertical Take-Off and Landing drones.
+- **World Robot Olympiad (WRO) Finalist** | Ranked 29th globally in the WRO International Final, Singapore (Team Echo Drift).
+- **BUET Robocarnival 2026** | Secured **2nd and 3rd Place** with teams RoboMore Nex and Dynamic Spark.
+- **Former Embedded System Engineer** | Professional experience at Drishti Technologies developing industrial embedded solutions.
 
-<ul align="center">
-  <li>🤖 <strong>Self-Driving Car</strong>: A Raspberry Pi-based self-driving car using computer vision for object detection and navigation.</li>
-  <li>🗑️ <strong>Autonomous Trash Collector Robot</strong>: An autonomous robot designed to navigate and collect trash in designated areas.</li>
-  <li>🚗 <strong>Line Follower Robot</strong>: A precision line-following robot using ESP32 and infrared sensors for accurate path tracking.</li>
-  <li>🌀 <strong>Maze Solving Robot</strong>: A robot capable of autonomously navigating and solving complex mazes.</li>
-  <li>🔍 <strong>Smart Glass for Blind People (Drishti)</strong>: A wearable device designed to assist visually impaired individuals through obstacle detection, navigation, and voice feedback.</li>
-  <li>🏭 <strong>Industrial Automation (Ongshak)</strong>: Automation solutions to optimize industrial processes, focusing on enhancing efficiency and reliability in manufacturing systems.</li>
-  <li>🌟 <strong>Many More...</strong> Explore my repositories for a wide range of robotics and electronics projects.</li>
-</ul>
+---
 
-<!-- Contact Section -->
-<h2 align="center">📫 Get in Touch</h2>
+### 🔬 Featured Projects
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nurulislam21/">LinkedIn</a> •
-  <a href="mailto:isnurul.noman@gmail.com">Email</a>
-</p>
+#### 🏎️ [High-Performance Line Follower](https://github.com/nurulislam21/WRO-FE-2025_Team-Echo-Drift)
+A professional-grade LFR built on the **STM32F4** platform. 
+- Features a custom U-shaped sensor array for advanced path tracking.
+- Implements the "TRANSIENT RESPONSE V1" board for high-speed stability.
+- Optimized with advanced PID algorithms for precision navigation.
 
-<p align="center">
-  Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
-</p>
+#### 🛩️ sn21 VTOL Drone
+An ongoing project focused on the intersection of fixed-wing efficiency and multi-rotor versatility.
+- Mechanical design completed in SOLIDWORKS.
+- Custom flight controller integration and power distribution system.
 
-<!-- GitHub Stats Section -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nurulislam21&show_icons=true&theme=radical" alt="Nurul's GitHub stats" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurulislam21&layout=compact&theme=radical" alt="Nurul's Top Languages" />
-</p>
+### 📊 GitHub Stats
 
-<!-- Visitor Badge Section -->
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=nurulislam21.nurulislam21" alt="Visitors">
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nurulislam21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurulislam21&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-<!-- Footer Section -->
-<p align="center">
-  🌟 **Let's create something amazing together!** 🌟
-</p>
+### 🌐 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/nurulislam21/)
+- 🌍 [Portfolio Website](http://nurulislam21.github.io/portfolio)
+- 📽️ [YouTube Channel](https://www.youtube.com/@nurulislam21)
+- 📧 [Email Me](mailto:your-email@example.com)
+
+---
+*"Engineering is not just about building things; it's about solving problems that haven't been solved yet."*
