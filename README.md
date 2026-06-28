@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/nurulislam21">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Noman+%F0%9F%91%8B;Electrical+%26+Electronic+Engineer;Robotics+%7C+PCB+Design+%7C+VTOL+UAV" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Noman+%F0%9F%91%8B;Electrical+%26+Electronic+Engineer;Robotics+%7C+Electronics+%7C+Aviation" alt="Typing SVG" />
 </a>
 <br>
 <img src="https://komarev.com/ghpvc/?username=nurulislam21&color=bd93f9&style=flat-square&label=Profile+Views" alt="Profile Views" />
