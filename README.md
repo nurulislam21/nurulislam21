@@ -8,7 +8,7 @@
 
 ---
 
-- 🌍 World Robot Olympiad 2025 — **Global Rank 29th**
+- 🌍 World Robot Olympiad 2025 — **Singapore**
 - 🌐 [Portfolio](https://nurulislam21.github.io/portfolio/) &nbsp;|&nbsp; 📺 [Noman Insight](https://youtube.com/@NomanInsight)
 
 ---
