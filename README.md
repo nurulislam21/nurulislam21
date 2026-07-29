@@ -9,7 +9,7 @@
 ---
 
 - 🌍 World Robot Olympiad 2025 — **Singapore**
-- 🌐 [Portfolio](https://nurulislam21.github.io/portfolio/) &nbsp;|&nbsp; 📺 [Noman Insight](https://youtube.com/@NomanInsight)
+- 🌐 [Portfolio](https://nurulislam21.github.io/portfolio/) &nbsp;|&nbsp; 📺 [Noman](https://youtube.com/@in_noman)
 
 ---
 
